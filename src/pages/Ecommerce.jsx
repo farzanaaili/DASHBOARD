@@ -17,6 +17,7 @@ const DropDown = ({ currentMode }) => (
 
 const Ecommerce = () => {
   const { currentColor, currentMode } = useStateContext();
+  
 
   return (
     <div className="mt-24">

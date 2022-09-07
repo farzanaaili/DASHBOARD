@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@headlessui/react": "^1.7.0",
+    "@heroicons/react": "^2.0.10",
     "@syncfusion/ej2-base": "^20.2.46",
     "@syncfusion/ej2-buttons": "^20.2.46",
     "@syncfusion/ej2-popups": "^20.2.45",
